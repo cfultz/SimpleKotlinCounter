@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="hello">Start Tapping!</string>
+    <string name="tap_me">Tap Me!</string>
+</resources>
